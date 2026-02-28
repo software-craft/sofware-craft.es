@@ -197,8 +197,6 @@ Actualmente me encuentro desarrollando estos proyectos, los ire subiendo de form
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="50" width="50"/>
 </p>
 
-### **Linkedin** ---> Leo Iglesias: Blockchain developer | WEB3 | QA Engineer
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
